@@ -1,6 +1,5 @@
 package testgroup.filmography.dao;
 
-import testgroup.filmography.dao.FilmDAO;
 import testgroup.filmography.model.Film;
 
 import java.util.ArrayList;

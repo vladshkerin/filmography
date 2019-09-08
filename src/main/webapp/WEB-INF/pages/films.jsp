@@ -4,7 +4,7 @@
     <title>Title</title>
 </head>
 <body>
-    Hello world
+    ${film}
     <h2><a href="/edit">Edit page</a></h2>
 </body>
 </html>

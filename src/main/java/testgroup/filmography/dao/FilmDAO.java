@@ -5,7 +5,9 @@ import testgroup.filmography.model.Film;
 import java.util.List;
 
 public interface FilmDAO {
-    List<Film> allFilms();
+    List<Film> allFilms(int page);
+
+    int filmsCount();
 
     void add(Film film);
 

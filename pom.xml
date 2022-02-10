@@ -16,7 +16,7 @@
         <jstl.version>1.2</jstl.version>
         <lombok.version>1.18.8</lombok.version>
         <sql.version>8.0.17</sql.version>
-        <hibernate.version>5.4.4.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <tomcat.dbcp.version>9.0.24</tomcat.dbcp.version>
     </properties>
 
